@@ -18,7 +18,7 @@
 }
 
 @media (prefers-color-scheme: light) {
-  :root.theme_light {
+  :root {
     --main-font: IBM Plex Mono;
     --text-color: #353430;
     --iivisible-light: transparent;
