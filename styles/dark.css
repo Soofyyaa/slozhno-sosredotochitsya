@@ -13,6 +13,7 @@
   --bg-color: #000028;
   --accent-color: #ff0070;
   --hover-color: rgba(255, 0, 112, 0.4);
+  --hover-link: #F1B2CE;
   --title-color: #db00ff;
   --background-image: url(../images/cover-image-dark.png);
 }

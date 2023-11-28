@@ -161,7 +161,7 @@
 }
 
 .content__link:hover {
-  border-bottom: 1px solid var(--hover-color);
+  border-bottom: 1px solid var(--hover-link);
 }
 
 .content__link:focus {
