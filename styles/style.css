@@ -262,7 +262,7 @@
   .content__decoration {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(4, manmax (260px, 1fr));
+    grid-template-rows: repeat(4, minmax (260px, 1fr));
     grid-template-areas:
       "share1 share1 share2"
       "share3 share4 share2"
